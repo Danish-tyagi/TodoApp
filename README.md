@@ -22,8 +22,5 @@ It allows users to add and delete daily tasks quickly.
 
 ---
 
-## ⚙ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/TodoApp.git 
+## ⚙ Live Demo
+[Click here to view the project](https://danish-tyagi.github.io/TodoApp/)
